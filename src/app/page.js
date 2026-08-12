@@ -13,7 +13,7 @@ export default function Home() {
           M.Tech Data Science & Engineering · NIT Silchar
         </p>
         <h1 className="max-w-3xl text-4xl font-semibold tracking-tight text-ink md:text-6xl">
-          Building Intelligent AI Solutions for Healthcare Research, Data Analytics, and Generative AI.
+          Building Intelligent AI Solutions for Research, Data Analytics, and Generative AI.
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-relaxed text-muted">
           I&apos;m Vikrant Kumar — an AI researcher working across Medical AI, Computer
