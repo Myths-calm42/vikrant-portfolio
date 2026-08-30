@@ -65,6 +65,11 @@ export const projects = [
     "Vercel",
     "Google Cloud Run",
   ],
+  links: {
+    live: "https://ai-stock-forecasting-platform.vercel.app",
+    github:
+      "https://github.com/Myths-calm42/Financial-Market-Analytics-Forecasting-Platform",
+  },
 },
   
   {
