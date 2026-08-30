@@ -49,14 +49,23 @@ export const projects = [
     github:"https://github.com/Myths-calm42/Lung-Cancer-Classification-Using-Transfer-Learning",
   },
   
-  {
-    slug: "stock-market-prediction",
-    title: "Stock Market Prediction Dashboard",
-    category: "data-analytics",
-    summary:
-      "LSTM-based time-series forecasting with an interactive analytics dashboard for stock price trends.",
-    stack: ["LSTM", "Python", "Pandas", "Dashboarding"],
-  },
+ {
+  slug: "stock-market-prediction",
+  title: "Financial Market Analytics & Forecasting Platform",
+  category: "data-analytics",
+  summary:
+    "End-to-end financial analytics and forecasting platform with real-time market data, deep-learning predictions, sentiment analysis, backtesting, and an interactive web dashboard.",
+  stack: [
+    "Python",
+    "FastAPI",
+    "Next.js",
+    "TensorFlow",
+    "PostgreSQL",
+    "FinBERT",
+    "Vercel",
+    "Google Cloud Run",
+  ],
+},
   
   {
     slug: "placement-portal",
