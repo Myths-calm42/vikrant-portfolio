@@ -69,6 +69,7 @@ export const projects = [
     live: "https://ai-stock-forecasting-platform.vercel.app",
     github:
       "https://github.com/Myths-calm42/Financial-Market-Analytics-Forecasting-Platform",
+    featured: true,
   },
 },
   
